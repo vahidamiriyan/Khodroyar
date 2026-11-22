@@ -1,21 +1,16 @@
-
 name: khodroyar
-description: Persian car maintenance reminder app.
+description: سامانه فارسی یادآوری و مدیریت سرویس خودرو
 publish_to: 'none'
-version: 1.0.0+1
-
+version: 0.2.0+2
 environment:
   sdk: '>=3.3.0 <4.0.0'
-
 dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.3.2
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
-
 flutter:
   uses-material-design: true
